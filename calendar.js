@@ -18,6 +18,10 @@ HC.onclick = function() {
     HC.innerHTML = "howdy!";
 }
 
+function changeTime(nm) {
+   nextLeavingTime.innerHTML = "hello!";   
+}
+
 
 
 

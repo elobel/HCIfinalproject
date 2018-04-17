@@ -1,0 +1,222 @@
+/*THE TITLE*/
+.title {
+    font-size: 6vw;
+    color: blue;
+    margin: 0vw;
+    padding: 0vw;
+}
+
+
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 1vw;
+    margin: 0px;
+    text-align: center;
+}
+
+
+/*THE CALENDAR*/
+#button {
+    background-color: white;
+    font-size: 3vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+#BrynMawr {
+    background-color: white;
+    font-size: 3vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+#Haverford {
+    background-color: white;
+    font-size: 3vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+
+/*THE COLLEGE*/
+.college {    
+    margin: 0;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+    background-color: white;
+    text-align:center;
+}
+
+
+
+
+/*NEXT BUS LEAVING*/
+.nextBusLeaving {
+    margin-bottom: 8vw;
+}
+
+#nextLeavingTime {
+    
+}
+
+
+
+/*THE PAGE CHANGE BUTTONS*/
+.pageChangeButtons {
+    margin-bottom: 8vw;
+}
+
+
+.setCustomAlarm {
+    
+}
+
+
+.presetAlarmSettings {
+    
+}
+
+
+
+/*THE DAYS OF THE WEEK*/
+.daysOfWeek {
+    font-size: 1.5vw;
+    
+}
+
+
+
+#Monday {
+    background-color: white;
+    font-size: 1.7vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+#Tuesday {
+    background-color: white;
+    font-size: 1.7vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+
+#Wednesday {
+   background-color: white;
+    font-size: 1.7vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+
+#Thursday {
+    background-color: white;
+    font-size: 1.7vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+
+#Friday {
+   background-color: white;
+    font-size: 1.7vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+
+#Saturday {
+    background-color: white;
+    font-size: 1.7vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+
+#SaturdayNight {
+    background-color: white;
+    font-size: 1.7vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+
+#Sunday {
+    background-color: white;
+    font-size: 1.7vw;
+    border: solid .4vw black;
+    color: black;   
+    cursor: pointer; 
+    padding: .99vw;  
+    margin-left: .7vw;
+    margin-right: .7vw;
+}
+
+
+
+/* Remove bullets in ul */
+ul {
+  list-style-type: none;
+}
+
+.tabContent {
+    display: none;
+}
+
+.college button.active {
+    background-color: #ccc;
+}
+
+.daysOfWeek button.active {
+    background-color: #ccc;
+}
+
+.blueBusSchedule {
+    font-size: 1.5vw;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+
